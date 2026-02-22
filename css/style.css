@@ -7,7 +7,7 @@ h1{
 }
 
 body{
-  background-image: url(/img/bro.jpg);
+  background-image: url(img/bro.jpg);
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
